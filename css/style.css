@@ -29,6 +29,31 @@ body {
     border-radius: 5px;
     font-size: 30px; }
 
+#history-section {
+  background: url("../img/barber2.jpg") no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 700px; }
+  #history-section .dark-overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 700px; }
+  #history-section .home-inner {
+    padding-top: 150px; }
+  #history-section .card-form {
+    opacity: 0.8; }
+  #history-section .fa {
+    color: #008ed6;
+    background: #fff;
+    padding: 4px;
+    border-radius: 5px;
+    font-size: 30px; }
+
+
+
 ul {
     list-style: none;
 }
