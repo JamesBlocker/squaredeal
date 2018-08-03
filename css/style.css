@@ -36,18 +36,18 @@ body {
   background-size: cover;
   background-attachment: fixed;
   min-height: 650px; }
-  #history-section .dark-overlay {
+  #menu-section .dark-overlay {
     background-color: rgba(0, 0, 0, 0.7);
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     min-height: 700px; }
-  #history-section .home-inner {
+  #menu-section .home-inner {
     padding-top: 150px; }
-  #history-section .card-form {
+  #menu-section .card-form {
     opacity: 0.8; }
-  #history-section .fa {
+  #menu-section .fa {
     color: #008ed6;
     background: #fff;
     padding: 4px;
@@ -58,4 +58,12 @@ body {
 
 ul {
     list-style: none;
+}
+
+#white-line {
+    color: white;
+}
+
+#white-line:hover {
+    color: dodgerblue;
 }
