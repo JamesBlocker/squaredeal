@@ -31,29 +31,14 @@ body {
     font-size: 30px; } */
 
 #menu-section {
-  background: url("../img/barber2.png") no-repeat;
+  background: url("../img/storefrontnight.jpg") no-repeat;
   /* opacity: 0.5; */
   background-color: white;
   background-size: cover;
   background-attachment: fixed;
-  min-height: 650px; }
-  /* #menu-section .dark-overlay {
-    background-color: rgba(0, 0, 0, 0.7);
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    min-height: 700px; }
-  #menu-section .home-inner {
-    padding-top: 150px; }
-  #menu-section .card-form {
-    opacity: 0.8; }
-  #menu-section .fa {
-    color: #008ed6;
-    background: #fff;
-    padding: 4px;
-    border-radius: 5px;
-    font-size: 30px; } */
+  min-height: 650px;
+}
+
 
 
 
@@ -67,4 +52,13 @@ ul {
 
 #white-line:hover {
     color: dodgerblue;
+}
+
+@font-face {
+    font-family: typewrite;
+    src: url(fonts/SpecialElite.ttf);
+}
+
+.typed {
+    font-family: american-typewriter;
 }
