@@ -7,15 +7,20 @@ body {
   border-bottom: #008ed6 3px solid;
   opacity: 1; } */
 
-#home-section {
+#home {
   background: url("../img/chairsfaded.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
 
-  min-height: 700px; }
+  min-height: 700px;
+}
 
-#menu-section {
+#history {
+    /* min-height: 700px; */
+}
+
+#menu {
   background: url("../img/storefrontnight.jpg") no-repeat;
   /* opacity: 0.5; */
   background-color: white;
@@ -40,7 +45,7 @@ ul {
     color: dodgerblue;
 }
 
-h1, h2, h3, h4, h5, h6, .lead {
+h1, h2, h3, h4, h5, h6, .lead, a {
   font-family: 'Oswald', sans-serif;
 }
 
