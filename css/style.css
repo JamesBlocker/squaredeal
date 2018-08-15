@@ -53,12 +53,3 @@ ul {
 #white-line:hover {
     color: dodgerblue;
 }
-
-@font-face {
-    font-family: typewrite;
-    src: url(fonts/SpecialElite.ttf);
-}
-
-.typed {
-    font-family: american-typewriter;
-}
