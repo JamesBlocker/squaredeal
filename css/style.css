@@ -21,7 +21,7 @@ body {
 }
 
 #menu {
-  background: url("../img/storefrontnight.jpg") no-repeat;
+  background: url("../img/storeshort.jpg") no-repeat;
   /* opacity: 0.5; */
   background-color: white;
   background-size: cover;
@@ -31,7 +31,7 @@ body {
 }
 
 #gallery {
-  background-color: #d7cfa1;
+  background-color: #f4ce42;
 }
 
 
@@ -49,10 +49,10 @@ ul {
     color: dodgerblue;
 }
 
-h1, h2, h3, h4, h5, h6, .lead, a {
+h1, h2, h3, h4, h5, h6, .lead, a, footer {
   font-family: 'Oswald', sans-serif;
 }
 
-p {
+p, .quote {
   font-family: 'Playfair Display', serif;
 }
