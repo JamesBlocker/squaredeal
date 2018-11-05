@@ -16,7 +16,7 @@ ul {
 }
 
 #home {
-  background: url("../img/homeSplash.jpg") no-repeat;
+  background: url("../img/homeSplash2.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
@@ -25,7 +25,7 @@ ul {
 }
 
 #menu {
-  background: url("../img/storeshort.jpg") no-repeat;
+  background: url("../img/menuSplash.jpg") no-repeat;
   background-color: white;
   background-size: cover;
   background-attachment: fixed;
