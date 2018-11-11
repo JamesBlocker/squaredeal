@@ -18,18 +18,19 @@ ul {
 #home {
   background: url("../img/homeSplash.jpg") no-repeat;
   background-size: cover;
-  background-attachment: fixed;
+  background-attachment: scroll;
   background-position: center;
-
   min-height: 700px;
+
+
 }
 
 #menu {
   background: url("../img/menuSplash.jpg") no-repeat;
-  background-color: white;
+  background-color: black;
   background-size: cover;
-  background-attachment: fixed;
-  background-position: right;
+  background-attachment: scroll;
+  background-position: center;
   min-height: 650px;
 }
 
